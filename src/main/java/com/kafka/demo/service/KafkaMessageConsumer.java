@@ -1,6 +1,6 @@
-package com.springboot.kafka.consumer.service;
+package com.kafka.demo.service;
 
-import com.springboot.kafka.consumer.dto.Employee;
+import com.kafka.demo.dto.Employee;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.kafka.annotation.KafkaListener;
